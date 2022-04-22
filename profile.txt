@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 This is Jaya Mishra, I'm 26 years old. I live in bangalore
+I am software engineer
+>>>>>>> Profile
